@@ -1,0 +1,12 @@
+{
+  "name": "retro_player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "http-server ./ -c-1",
+    "test": "npm test"
+  },
+  "author": "",
+  "license": "MIT"
+}
